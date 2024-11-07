@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Test\testtt6687\bin\Debug\net8.0\testtt6687.exe
+C:\Users\Hp\Desktop\Test\testtt6687\bin\Debug\net8.0\testtt6687.deps.json
+C:\Users\Hp\Desktop\Test\testtt6687\bin\Debug\net8.0\testtt6687.runtimeconfig.json
+C:\Users\Hp\Desktop\Test\testtt6687\bin\Debug\net8.0\testtt6687.dll
+C:\Users\Hp\Desktop\Test\testtt6687\bin\Debug\net8.0\testtt6687.pdb
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.sourcelink.json
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.dll
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\refint\testtt6687.dll
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.pdb
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\testtt6687.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Test\testtt6687\obj\Debug\net8.0\ref\testtt6687.dll
